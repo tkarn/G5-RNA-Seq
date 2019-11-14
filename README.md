@@ -2,7 +2,7 @@
 
 ## Supplementary Resource to:
 
-[Karn T et al. Predictive value of molecular hypoxia signature for bevacizumab response in neoadjuvant GeparQuinto breast cancer trial.
+Karn T et al. Predictive value of molecular hypoxia signature for bevacizumab response in neoadjuvant GeparQuinto breast cancer trial.
 
 *Pubmed:*
 

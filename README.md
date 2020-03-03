@@ -7,7 +7,7 @@ Karn T et al. A small hypoxia signature predicted pCR response to bevacizumab in
 
 *Pubmed:*
 
-[https://www.ncbi.nlm.nih.gov/pubmed/?term=](https://www.ncbi.nlm.nih.gov/pubmed/?term=)
+[https://www.ncbi.nlm.nih.gov/pubmed/?term=31932495](https://www.ncbi.nlm.nih.gov/pubmed/?term=31932495)
 
 ************************************************************
 
